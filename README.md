@@ -8,21 +8,21 @@
  
 <div id="user-content-toc">
   <ul align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=500&center=true&width=435&color=0096FF&size=35&lines=Hi!+there,+I+am+Aman+Antuley" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=500&center=true&width=435&color=0096FF&size=35&lines= Hi!+there,+I+am+Aman" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br>
 
-- 🧑‍🎓 I'm currently a **computer engineering student from India.**
+- 🧑‍🎓 I'm currently a **Computer engineering student from India.**
   
-- 🔭 Currently working on **Full-Stack Web Development, Android, and AI/ML Projects.**
+- 🔭 Currently working on **Front-End Web Development, Android, and AI/ML Projects.**
 
-- 🌱 Currently learning **Cloud Computing, DevOps, and Machine Learning.**
+- 🌱 Currently learning **Cloud Computing, Data-Analytics, and Machine Learning.**
 
 - 💬 Ask me about **Web Development, AI, and Open-Source Contributions.**
 
-- 📫 Feel free to reach me out at **amanantuley@gmail.com**.
+- 📫 Feel free to reach me out at **amanantuley3794@gmail.com**.
 
 <br>
 <table align="center">
