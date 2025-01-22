@@ -72,7 +72,7 @@
 <br>
 
 ### GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=amanantuley&color=green&style=flat-square)  [![Stars](https://img.shields.io/github/stars/amanantuley?style=social)](https://github.com/amanantuley?tab=repositories)  [![Followers](https://img.shields.io/github/followers/amanantuley?style=social)](https://github.com/)  
+![Profile Views](https://komarev.com/ghpvc/?username=amanantuley&color=green&style=flat-square)                [![Stars](https://img.shields.io/github/stars/amanantuley?style=social)](https://github.com/amanantuley?tab=repositories)                    [![Followers](https://img.shields.io/github/followers/amanantuley?style=social)](https://github.com/)  
 
 
 
