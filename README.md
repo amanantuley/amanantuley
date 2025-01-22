@@ -71,6 +71,14 @@
 
 <br>
 
+### GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=amanantuley&color=green&style=flat-square)  
+![Stars](https://img.shields.io/github/stars/amanantuley?style=social)  
+![Followers](https://img.shields.io/github/followers/amanantuley?style=social)  
+
+<br>
+
 <div id="user-content-toc" align="center">
   <ul align="center">
     <h1 style="display: inline-block">Technologies I Know 👨🏽‍💻</h1>
