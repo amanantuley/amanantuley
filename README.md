@@ -1,3 +1,4 @@
+
 <br>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">
 <br> -->
@@ -137,13 +138,13 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanantuley/" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-antuley-8974ab26a/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://amanantuley.github.io/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:amanantuley@gmail.com" target="_blank">
+  <a href="mailto:amanantuley3794@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
