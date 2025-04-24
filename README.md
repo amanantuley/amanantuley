@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning **Cloud Computing, Data-Analytics, and Machine Learning.**
 
-- 💬 Ask me about **Web Development, AI, DS and Open-Source Contributions.**
+- 💬 Ask me about **Web Development, AI/ML, Data Science and Open-Source Contributions.**
   
 - 📫 Feel free to reach me out at **amanantuley3794@gmail.com**.
 
