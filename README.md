@@ -34,10 +34,11 @@ this is my github profile
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-    </td>
-  </tr>
+  <td colspan="2" align="center">
+    <img src="https://github.com/amanantuley/amanantuley/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  </td>
+</tr>
+
 
   <tr>
     <td colspan="2" align="center">
