@@ -35,7 +35,7 @@ this is my github profile
 
   <tr>
   <td colspan="2" align="center">
-    <img src="https://github.com/amanantuley/amanantuley/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+    <img src="workflows/github-profile-3d-contrib.yml" alt="3D Contribution Graph" />
   </td>
 </tr>
 
