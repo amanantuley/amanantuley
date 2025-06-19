@@ -24,12 +24,12 @@
   
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=amanantuley&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&count_private=true&theme=radical" />
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=radical&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=radical" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanantuley&layout=compact&langs_count=8&show_icons=true&locale=en&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanantuley&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=radical" />
     </td>
   </tr>
 
