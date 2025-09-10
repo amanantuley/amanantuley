@@ -8,7 +8,7 @@
 <br>
 
 - 🧑‍🎓 I'm currently a **Computer Engineering student from India.**
-- **Organizer @ Google Developer Groups on Campus : AIKTC**
+- 🏆 **Organizer @ Google Developer Groups on Campus : AIKTC**
 - 🔭 Currently working on **Front-End Web Development, Android, and AI/ML Projects.**
 - 🌱 Currently learning **Cloud Computing, Data Analytics, and Machine Learning.**
 - 💬 Ask me about **Web Development, AI/ML, Data Science, and Open-Source Contributions.**
