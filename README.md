@@ -115,9 +115,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a1a&height=2" />
 </div>
 
-<br/>
-
----
 
 ## 🎨 Frontend Development  
 <div align="center">
