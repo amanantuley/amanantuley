@@ -128,7 +128,7 @@
 
 ## 🤖 Artificial Intelligence / Machine Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,anaconda" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda" height="55" />
 </div>
 
 
