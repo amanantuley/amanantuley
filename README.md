@@ -17,6 +17,7 @@
 </div>
 
 ---
+<br>
 
 ## 🚀 About Me
 
@@ -30,7 +31,7 @@
 - 🤝 Open to **collaborations, internships & innovative projects**
 
 ---
-
+<br>
 # ⚡ GitHub Analytics
 <div align="center">
 
@@ -107,7 +108,7 @@
   </a>
 </p>
 
-
+<br>
 
 # 🛠 Tech Stack & Expertise
 
