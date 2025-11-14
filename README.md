@@ -59,7 +59,7 @@
 
 ---
 
-# 🐍 Contribution Snake (Auto-Updated)
+# 🐍 Contribution Snake 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/amanantuley/amanantuley/output/snake.svg" width="95%" />
@@ -83,41 +83,65 @@
 
 ---
 
-# 🛠 Tech Stack (Clean, Organized & Professional)
+# 🛠 Tech Stack & Expertise
 
-### 🎨 Frontend  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a1a&height=2" />
 </div>
 
-### ⚙️ Backend  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<br/>
+
+## 🎨 Frontend Development  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="50" />
 </div>
 
-### 📱 Mobile Development  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+---
+
+## ⚙️ Backend Development  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="50" />
 </div>
 
-### 🤖 AI / Machine Learning  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,python,anaconda" />
+---
+
+## 📱 Mobile Development  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="50" />
 </div>
 
-### 🗄 Databases  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+---
+
+## 🤖 Artificial Intelligence / Machine Learning  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,anaconda" height="50" />
 </div>
 
-### ☁️ Cloud & DevOps  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
+---
+
+## 🗄 Databases  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
 </div>
 
-### 🧰 Tools  
-<div align="left">
-<img src="https://skillicons.dev/icons?i=figma,vscode,pycharm,idea" />
+---
+
+## ☁️ Cloud & DevOps  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github" height="50" />
+</div>
+
+---
+
+## 🧰 Tools & Softwares  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,pycharm,idea" height="50" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0d1117&height=2" />
 </div>
 
 ---
