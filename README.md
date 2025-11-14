@@ -107,8 +107,9 @@
     <img src="https://img.shields.io/github/followers/amanantuley?style=social" alt="GitHub Followers" />
   </a>
 </p>
+
+</br>
 ---
-<br>
 
 # 🛠 Tech Stack & Expertise
 
