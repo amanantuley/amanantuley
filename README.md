@@ -83,6 +83,20 @@
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanantuley&color=green&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/amanantuley?tab=repositories">
+    <img src="https://img.shields.io/github/stars/amanantuley?style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/amanantuley">
+    <img src="https://img.shields.io/github/followers/amanantuley?style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+
+
 # 🛠 Tech Stack & Expertise
 
 <div align="center">
