@@ -6,10 +6,15 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GDGC-Organizer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/India-🇮🇳-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Computer%20Engineer-%F0%9F%94%AC%20Problem%20Solver-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GDGC-Organizer-FF6D00?style=for-the-badge&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/India-🇮🇳-1E88E5?style=for-the-badge" />
+
 </div>
 
 ---
