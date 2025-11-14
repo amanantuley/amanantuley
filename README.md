@@ -206,13 +206,7 @@
   <img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
 
-<a href="https://youtube.com/">
-  <img src="https://skillicons.dev/icons?i=youtube" height="55" />
-</a>
 
-<a href="https://t.me/">
-  <img src="https://skillicons.dev/icons?i=telegram" height="55" />
-</a>
 
 </div>
 
