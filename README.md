@@ -127,17 +127,6 @@
 
 </div>
 
----
-
-# 📊 Developer Summary (Shown Once Only)
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanantuley&theme=tokyonight" width="90%" />
-
-</div>
-
----
 
 # ✍️ Quote of the Day
 
@@ -155,17 +144,6 @@
   <a href="mailto:amanantuley3794@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
 
----
-
-# 📈 Profile Views
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amanantuley&icon=3&color=6" />
-</div>
-
----
-
-# 🌊 Elegant Footer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
