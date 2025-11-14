@@ -31,7 +31,6 @@
 - 🤝 Open to **collaborations, internships & innovative projects**
 
 ---
-<br>
 # ⚡ GitHub Analytics
 <div align="center">
 
