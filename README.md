@@ -109,7 +109,6 @@
 </p>
 
 </br>
----
 
 # 🛠 Tech Stack & Expertise
 
@@ -183,9 +182,39 @@
 # 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aman-antuley-8974ab26a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://amanantuley.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:amanantuley3794@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+<a href="https://www.linkedin.com/in/aman-antuley-8974ab26a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+
+<a href="mailto:amanantuley3794@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+</a>
+
+<a href="https://amanantuley.github.io/">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+</a>
+
+<a href="https://twitter.com/">
+  <img src="https://skillicons.dev/icons?i=twitter" height="55" />
+</a>
+
+<a href="https://instagram.com/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+</a>
+
+<a href="https://discord.com/">
+  <img src="https://skillicons.dev/icons?i=discord" height="55" />
+</a>
+
+<a href="https://youtube.com/">
+  <img src="https://skillicons.dev/icons?i=youtube" height="55" />
+</a>
+
+<a href="https://t.me/">
+  <img src="https://skillicons.dev/icons?i=telegram" height="55" />
+</a>
+
 </div>
 
 
