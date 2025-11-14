@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/github/followers/amanantuley?style=social" alt="GitHub Followers" />
   </a>
 </p>
-
+---
 <br>
 
 # 🛠 Tech Stack & Expertise
@@ -135,7 +135,7 @@
 
 ## 📊 Data Science & Analytics  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matlab" height="55" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="55" />
 </div>
 
 
