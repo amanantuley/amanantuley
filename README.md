@@ -31,16 +31,17 @@
 
 <div align="center">
 
-<table>
+<!-- ================= TOP CARDS ================ -->
+<table style="border-collapse: collapse;">
 <tr>
-<td align="center">
+<td align="center" style="padding: 8px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="360"/>
 
 </td>
-<td align="center">
+<td align="center" style="padding: 8px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="360"/>
 
 </td>
 </tr>
@@ -48,11 +49,13 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="80%" />
+<!-- ================= STREAK ================ -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="75%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="95%" />
+<!-- ================= ACTIVITY GRAPH ================ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="90%" />
 
 </div>
 
