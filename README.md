@@ -111,72 +111,51 @@
 
 # 🛠 Tech Stack & Expertise
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a1a&height=2" />
-</div>
-
-
 ## 🎨 Frontend Development  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui,figma" height="55" />
 </div>
-
----
 
 ## ⚙️ Backend Development  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,php" height="55" />
 </div>
 
----
-
 ## 📱 Mobile Development  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="55" />
 </div>
-
----
 
 ## 🤖 Artificial Intelligence / Machine Learning  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,anaconda" height="55" />
 </div>
 
----
 
 ## 📊 Data Science & Analytics  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matlab" height="55" />
 </div>
 
----
 
 ## 🗄 Databases  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase" height="55" />
 </div>
 
----
 
 ## ☁️ Cloud & DevOps  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,gitlab" height="55" />
 </div>
 
----
+
 
 ## 🧰 Tools & IDEs  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,postman,notion,githubactions" height="55" />
 </div>
 
----
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0d1117&height=2" />
-</div>
 
 
 # 🚀 Featured Projects
