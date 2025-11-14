@@ -275,14 +275,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/amanantuley/Finance-Tracker-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=Finance-Tracker-AI&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/amanantuley/NekiHub-Admin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=NekiHub-Admin&theme=tokyonight&hide_border=true" />
-</a>
-
 </div>
 
 
