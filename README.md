@@ -28,7 +28,6 @@
 ---
 
 # ⚡ GitHub Analytics
-
 <div align="center">
 
 <!-- ================= TOP CARDS ================ -->
@@ -36,12 +35,12 @@
 <tr>
 <td align="center" style="padding: 8px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="360" />
 
 </td>
 <td align="center" style="padding: 8px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="360" />
 
 </td>
 </tr>
@@ -49,15 +48,23 @@
 
 <br/>
 
-<!-- ================= STREAK ================ -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="75%" />
+<!-- =============== STREAK + ACTIVITY GRAPH SIDE BY SIDE =============== -->
+<table style="border-collapse: collapse;">
+<tr>
 
-<br/><br/>
+<td align="center" style="padding: 8px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="450" />
+</td>
 
-<!-- ================= ACTIVITY GRAPH ================ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="90%" />
+<td align="center" style="padding: 8px;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="450" />
+</td>
+
+</tr>
+</table>
 
 </div>
+
 
 
 ---
