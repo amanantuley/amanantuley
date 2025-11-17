@@ -29,7 +29,6 @@
 - 📫 Email → **amanantuley3794@gmail.com**
 - 🤝 Open to **collaborations, internships & innovative projects**
 
----
 # ⚡ GitHub Analytics
 <div align="center">
 
