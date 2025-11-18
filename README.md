@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=700&center=true&width=700&color=00E1FF&lines=Hey+there!+I'm+Aman+Antuley.;Engineer+%7C+Developer+%7C+Innovator;AI%2C+Cloud%2C+Web+%26+Android+Developer;Building+Impactful+Digital+Experiences+🚀" />
 </div>
 
----
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white" />
