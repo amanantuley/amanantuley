@@ -75,8 +75,6 @@
   <img src="https://raw.githubusercontent.com/amanantuley/amanantuley/output/snake.svg" width="95%" />
 </div>
 
----
-
 # 🏆 Achievements
 
 <div align="center">
