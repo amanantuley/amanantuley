@@ -149,7 +149,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,postman,notion,githubactions" height="55" />
 </div>
 
-
+---
 <br>
 
 # 🚀 Featured Projects
