@@ -199,8 +199,6 @@
   <img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
 
----
-
 </div>
 
 
