@@ -142,16 +142,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,postman,notion,githubactions" height="55" />
 </div>
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/amanantuley/PowerHouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PowerHouse&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 # ✍️ Quote of the Day
 
 <div align="center">
