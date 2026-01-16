@@ -146,8 +146,8 @@
 
 <div align="center">
 
-<a href="https://github.com/amanantuley/PerfectFit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/amanantuley/PowerHouse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PowerHouse&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
