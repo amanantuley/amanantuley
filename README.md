@@ -33,7 +33,7 @@
 # ⚡ GitHub Analytics
 <div align="center">
 
-<!-- === TOP CARDS= -->
+<!-- = TOP CARDS= -->
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="padding: 8px;">
