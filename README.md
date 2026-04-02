@@ -51,7 +51,7 @@
 
 <br/>
 
-<!-- == STREAK + ACTIVITY GRAPH SIDE BY SIDE === -->
+<!-- = STREAK + ACTIVITY GRAPH SIDE BY SIDE === -->
 <table style="border-collapse: collapse;">
 <tr>
 
