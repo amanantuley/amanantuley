@@ -97,7 +97,7 @@
 </p>
 
 </br>
-
+---
 # 🛠 Tech Stack & Expertise
 
 ## 🎨 Frontend Development  
