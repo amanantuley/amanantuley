@@ -165,6 +165,7 @@
 <a href="https://twitter.com/">
   <img src="https://skillicons.dev/icons?i=twitter" height="55" />
 </a>
+```
 
 <a href="https://instagram.com/">
   <img src="https://skillicons.dev/icons?i=instagram" height="55" />
