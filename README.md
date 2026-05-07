@@ -42,7 +42,6 @@
   </tr>
 </table>
 
----
 
 # ⚡ GitHub Intelligence & Analytics
 <div align="center">
