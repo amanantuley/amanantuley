@@ -99,7 +99,6 @@
   </a>
 </p>
 
----
 
 # 🛠 Tech Stack & Expertise
 
