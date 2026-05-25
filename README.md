@@ -390,4 +390,3 @@ Full Stack • AI/ML • Cloud • Software Engineering
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E1FF,100:0077FF&section=footer" />
 
 </div>
-```
