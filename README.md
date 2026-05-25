@@ -205,7 +205,7 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 <div align="center">
 
-<a href="https://github.com/amanantuley/PerfectFit-AI">
+<a href="https://github.com/amanantuley/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit-AI&theme=tokyonight&hide_border=true" />
 </a>
 
