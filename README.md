@@ -205,11 +205,11 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 <div align="center">
 
-<a href="https://github.com/amanantuley/">
+<a href="https://github.com/amanantuley/PerfectFit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit-AI&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/amanantuley/Mini-Campus-E-Commerce">
+<a href="https://github.com/amanantuley/CogniDetect-Main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=Mini-Campus-E-Commerce&theme=tokyonight&hide_border=true" />
 </a>
 
