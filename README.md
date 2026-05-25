@@ -206,16 +206,15 @@ Full Stack • AI/ML • Cloud • Software Engineering
 <div align="center">
 
 <a href="https://github.com/amanantuley/PerfectFit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit-AI&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 <a href="https://github.com/amanantuley/CogniDetect-Main">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=Mini-Campus-E-Commerce&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=CogniDetect-Main&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 </div>
 
----
 
 # 🐍 Contribution Ecosystem
 
