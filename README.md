@@ -1,29 +1,39 @@
-
+````md id="b4s3wy"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=260&section=header&text=Aman%20Antuley&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%%20DevOpsr%20•%20Cloud%20Enthusiast&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=280&section=header&text=Aman%20Antuley&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20AI%20Developer%20•%20DevOps%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 
 </div>
 
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1100&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+Cloud+%7C+Android+Developer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍;Passionate+About+Innovation+%26+Open+Source" />
 
 </div>
 
+---
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-06D6A0?style=for-the-badge&logo=github&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/GDGC-Organizer-F72585?style=for-the-badge&logo=google&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SIH%202025-Finalist-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Meta-Hackathon%20Finalist-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge"/>
 
 </div>
 
+---
 
 # 💫 About Me
 
@@ -31,28 +41,44 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## ⚡ Professional Snapshot
 
-
+```yaml
 Name: Aman Antuley
-Role: Software Engineer & AI Developer
-Location: India 🇮🇳
+
+Role:
+  - Software Engineer
+  - AI/ML Developer
+  - DevOps & Cloud Enthusiast
+
+Location:
+  - India 🇮🇳
+
 Specialization:
   - Full Stack Development
   - Artificial Intelligence / Machine Learning
   - Cloud Computing
   - Android Development
+  - Scalable Backend Systems
 
-Community:
+Community & Leadership:
   - GDGC Organizer
   - Open Source Contributor
+  - Community Builder
 
 Achievements:
   - SIH 2025 Finalist
   - Meta Global Hackathon Finalist
 
+Currently Exploring:
+  - Distributed Systems
+  - Generative AI
+  - Kubernetes & DevOps
+  - Cloud Native Applications
+````
 
 </td>
 
@@ -60,20 +86,46 @@ Achievements:
 
 ## 🚀 Current Mission
 
+### 🔭 Engineering Goals
+
 * Building scalable AI-powered applications
-* Exploring Cloud & Distributed Systems
 * Developing real-time intelligent dashboards
-* Contributing to impactful open-source projects
-* Solving real-world engineering challenges
-* Open to internships & full-time opportunities
+* Creating cloud-native and production-ready systems
+* Designing impactful digital experiences
+
+### 🌱 Currently Learning
+
+* Advanced DevOps & Kubernetes
+* Distributed Systems Architecture
+* LLMs & AI Infrastructure
+* Scalable Cloud Engineering
+
+### 🤝 Open To
+
+* Software Engineering Roles
+* AI/ML Opportunities
+* Cloud & DevOps Internships
+* Open Source Collaborations
+* Innovative Startup Projects
+
+### 💡 Philosophy
+
+> “Building technology that creates real-world impact.”
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanantuley&theme=tokyonight" width="100%" />
+
+</div>
 
 # 🏆 Recognition & Opportunities
 
