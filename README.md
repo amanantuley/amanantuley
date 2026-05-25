@@ -1,60 +1,121 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E1FF&height=200&section=header&text=Aman%20Antuley&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=700&center=true&width=900&color=00E1FF&lines=Hey+there!+I'm+Aman+Antuley.;Engineer+%7C+Developer+%7C+Innovator.;Meta+Hackathon+Finalist+🚀;Cloud%2C+Web+%26+Android+Developer.;Building+Impactful+Digital+Experiences+🔥" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-06D6A0?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/GDGC-Organizer-F72585?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/SIH%202025-Finalist-FFB703?style=for-the-badge&logo=hackathon&logoColor=black" />
-<img src="https://img.shields.io/badge/Meta%20Hackathon-Finalist-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge" />
-</div>
-
-<br/>
-
-# 💼 Open To Work
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E1FF&center=true&vCenter=true&width=900&lines=Open+to+Software+Engineering+Roles;Open+to+AI%2FML+%26+Cloud+Opportunities;Meta+Hackathon+Finalist+🚀;Building+Scalable+Digital+Experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=240&section=header&text=Aman%20Antuley&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Professional Snapshot</h3>
-      <ul>
-        <li>🧑‍🎓 <b>Computer Engineering Student | India</b></li>
-        <li>🏆 <b>SIH ’25 Finalist (Smart India Hackathon)</b></li>
-        <li>🔥 <b>Meta Global Hackathon Finalist</b></li>
-        <li>🏆 <b>Organizer @ GDGC AIKTC</b></li>
-        <li>💼 <b>Open to Full-Time Roles, Internships & Global Collaborations</b></li>
-        <li>🧠 Passionate about <b>Web Dev, AI/ML, Android & Cloud</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Current Mission</h3>
-      <ul>
-        <li>🔭 Building <b>AI-driven apps & real-time dashboards</b></li>
-        <li>🌱 Learning <b>Cloud Computing, LLMs & Distributed Systems</b></li>
-        <li>💬 Ask me about <b>Web Dev, AI/ML & Open Source</b></li>
-        <li>🚀 Open to <b>SDE, AI/ML, Full Stack & Cloud Opportunities</b></li>
-        <li>🤝 Open to <b>innovative collaborations & internships</b></li>
-      </ul>
-    </td>
-  </tr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=00E1FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+Cloud+%7C+Android+Developer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-06D6A0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GDGC-Organizer-F72585?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIH%202025-Finalist-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💼 Professional Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Professional Snapshot
+
+
+Name: Aman Antuley
+Role: Software Engineer & AI Developer
+Location: India 🇮🇳
+Focus: Full Stack • AI/ML • Cloud • Android
+Community: GDGC Organizer
+Achievement: SIH 2025 Finalist
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Current Mission
+
+* Building AI-driven scalable applications
+* Exploring Cloud & Distributed Systems
+* Contributing to impactful open-source projects
+* Solving real-world engineering problems
+* Open to internships & full-time opportunities
+
+</td>
+</tr>
 </table>
+
+</div>
+
+---
+
+# 🏆 Recognition & Opportunities
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/META-Global%20Hackathon%20Finalist-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+
+### 🌍 Meta Hackathon Finalist
+
+Recognized for innovation, scalable engineering and impactful problem-solving in a competitive hackathon environment.
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Smart%20India-Hackathon%20Finalist-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
+
+### 🧠 SIH 2025 Finalist
+
+Built impactful real-world solutions focused on innovation, technology and scalability.
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+### 💼 Open To Work
+
+Actively seeking opportunities in:
+Full Stack • AI/ML • Cloud • Software Engineering
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanantuley&theme=tokyonight" width="100%" />
+
+</div>
 
 ---
 
@@ -104,14 +165,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Meta%20Hackathon-Global%20Finalist-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-00E676?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://github-profile-trophy.vercel.app/?username=amanantuley&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6" />
 
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanantuley&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6" />
 </div>
 
 ---
@@ -201,26 +256,38 @@
 # 🌐 Connect With Me
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/aman-antuley-8974ab26a/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
+
 <a href="mailto:amanantuley3794@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
-<a href="https://amanantuley.github.io/">
+
+<a href="https://github.com/amanantuley">
   <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
+
 <a href="https://twitter.com/">
   <img src="https://skillicons.dev/icons?i=twitter" height="55" />
 </a>
+
 <a href="https://instagram.com/">
   <img src="https://skillicons.dev/icons?i=instagram" height="55" />
 </a>
+
 <a href="https://discord.com/">
   <img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+
 </div>
+```
