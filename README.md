@@ -1,4 +1,3 @@
-````md id="b4s3wy"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=280&section=header&text=Aman%20Antuley&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20AI%20Developer%20•%20DevOps%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
@@ -46,7 +45,6 @@
 
 ## ⚡ Professional Snapshot
 
-```yaml
 Name: Aman Antuley
 
 Role:
@@ -78,7 +76,6 @@ Currently Exploring:
   - Generative AI
   - Kubernetes & DevOps
   - Cloud Native Applications
-````
 
 </td>
 
