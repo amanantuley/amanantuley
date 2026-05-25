@@ -1,4 +1,4 @@
-````md id="q9vw6x"
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=260&section=header&text=Aman%20Antuley&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Cloud%20Enthusiast&descAlignY=60&descSize=20" width="100%" />
@@ -38,7 +38,7 @@
 
 ## ⚡ Professional Snapshot
 
-```yaml
+
 Name: Aman Antuley
 Role: Software Engineer & AI Developer
 Location: India 🇮🇳
@@ -55,7 +55,7 @@ Community:
 Achievements:
   - SIH 2025 Finalist
   - Meta Global Hackathon Finalist
-````
+
 
 </td>
 
