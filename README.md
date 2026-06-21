@@ -113,8 +113,6 @@ Currently Exploring:
 
 </div>
 
----
-
 
 <div align="center">
 
