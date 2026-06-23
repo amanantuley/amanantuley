@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=280&section=header&text=Aman%20Antuley&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20AI%20Developer%20•%20DevOps%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 
 </div>
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍;Passionate+About+Innovation+%26+Open+Source" />
