@@ -90,7 +90,6 @@ Currently Exploring:
 * LLMs & AI Infrastructure
 * Scalable Cloud Engineering
   
-
 ### 🤝 Open To
 
 * Software Engineering Roles
