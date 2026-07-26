@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍;Passionate+About+Innovation+%26+Open+Source" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍;GDGC+Organizer+%7C+GSSoC+'26+Contributor;Passionate+About+Innovation+%26+Open+Source" />
 
 </div>
 
@@ -21,6 +21,22 @@
 <img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge"/>
 
 </div>
+
+---
+
+## 📌 Navigation Index
+* [💫 About Me](#-about-me)
+* [🏆 Recognition & Achievements](#-recognition--achievements)
+* [⚡ GitHub Intelligence & Analytics](#-github-intelligence--analytics)
+* [🔝 Featured Projects](#-featured-projects)
+* [🐍 Contribution Ecosystem](#-contribution-ecosystem)
+* [🏅 GitHub Achievements](#-github-achievements)
+* [📈 Social Proof Metrics](#-social-proof-metrics)
+* [🛠 Tech Stack & Expertise](#-tech-stack--expertise)
+* [✍️ Daily Inspiration](#️-daily-inspiration)
+* [🌐 Connect With Me](#-connect-with-me)
+
+---
 
 # 💫 About Me
 
@@ -45,16 +61,18 @@
   - Android Development
   - Scalable Backend Systems
 * **Community & Leadership:**
-  - GDGC Organizer
-  - Open Source Contributor
+  - GDGC Organizer ('25–'26)
+  - Google Student Ambassador ('26)
+  - GSSoC '26 Contributor
   - Community Builder
 * **Achievements:**
   - SIH 2025 Finalist
   - Meta Global Hackathon Finalist
+  - Infosys Springboard Intern (6.0 & 7.0)
 * **Currently Exploring:**
-  - Distributed Systems
-  - Generative AI
-  - Kubernetes & DevOps
+  - Distributed Systems Architecture
+  - Generative AI & AI Infrastructure
+  - Advanced Kubernetes & DevOps
   - Cloud Native Applications
 
 </td>
@@ -70,14 +88,14 @@
 * Designing impactful digital experiences
 
 ### 🌱 Currently Learning
-* Advanced DevOps & Kubernetes
-* Distributed Systems Architecture
-* LLMs & AI Infrastructure
-* Scalable Cloud Engineering
+* Advanced DevOps & Kubernetes Pipelines
+* Microservices & Distributed Systems
+* LLMs & AI Model Deployment
+* High-Performance Cloud Architecture
 
 ### 🤝 Open To
 * Software Engineering Roles
-* AI/ML Opportunities
+* AI/ML Engineering Opportunities
 * Cloud & DevOps Internships
 * Open Source Collaborations
 * Innovative Startup Projects
@@ -99,7 +117,9 @@
 
 </div>
 
-# 🏆 Recognition & Opportunities
+---
+
+# 🏆 Recognition & Achievements
 
 <div align="center">
 
@@ -120,7 +140,7 @@ Recognized for innovation, scalable engineering, and impactful problem-solving i
 <img src="https://img.shields.io/badge/Smart%20India-Hackathon%20Finalist-FFB703?style=for-the-badge&logo=trophy&logoColor=black"/>
 
 ### 🧠 SIH 2025 Finalist
-Built impactful real-world solutions focused on innovation, scalability, and engineering excellence.
+Built impactful real-world software solutions focused on innovation, scalability, and technical excellence.
 
 </td>
 
@@ -129,7 +149,7 @@ Built impactful real-world solutions focused on innovation, scalability, and eng
 <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ### 💼 Open To Work
-Actively exploring opportunities in:  
+Actively exploring high-impact opportunities in:  
 **Full Stack • AI/ML • Cloud • Software Engineering**
 
 </td>
@@ -139,25 +159,32 @@ Actively exploring opportunities in:
 
 </div>
 
+### 🌟 Leadership & Industry Highlights
+* 🎯 **GDGC Organizer ('25–'26) & Google Student Ambassador ('26):** Leading developer community engagements, organizing technical workshops, and mentoring aspiring developers.
+* 🚀 **GSSoC ’26 Contributor:** Actively contributing code, fixing issues, and collaborating across open-source ecosystems.
+* 💼 **Infosys Springboard Intern (6.0 & 7.0):** Completed hands-on industry training spanning full-stack architectures, enterprise software design, and cloud methodologies.
+
+---
+
 # ⚡ GitHub Intelligence & Analytics
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="410" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="100%" />
 </td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="390" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="410" />
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="100%" />
 </td>
-<td align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="410" />
+<td align="center" width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="100%" />
 </td>
 </tr>
 </table>
@@ -170,14 +197,34 @@ Actively exploring opportunities in:
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
 <a href="https://github.com/amanantuley/PerfectFit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
+
+**PerfectFit-AI**  
+*Computer Vision & ML platform for automated body measurement extraction and custom tailoring solutions.*
+
+</td>
+<td width="50%" align="center">
+
 <a href="https://github.com/amanantuley/CogniDetect-Main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=CogniDetect-Main&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
+**CogniDetect**  
+*Intelligent machine learning diagnostic framework for early pattern analysis and cognitive assessment.*
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
 
 # 🐍 Contribution Ecosystem
 
@@ -298,6 +345,12 @@ Actively exploring opportunities in:
 ---
 
 <div align="center">
+
+<a href="#-navigation-index">
+<img src="https://img.shields.io/badge/⬆_Back_to_Top-00E1FF?style=for-the-badge&logoColor=white" />
+</a>
+
+<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E1FF,100:0077FF&section=footer" width="100%" />
 
