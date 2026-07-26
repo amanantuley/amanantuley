@@ -24,20 +24,6 @@
 
 ---
 
-## 📌 Navigation Index
-* [💫 About Me](#-about-me)
-* [🏆 Recognition & Achievements](#-recognition--achievements)
-* [⚡ GitHub Intelligence & Analytics](#-github-intelligence--analytics)
-* [🔝 Featured Projects](#-featured-projects)
-* [🐍 Contribution Ecosystem](#-contribution-ecosystem)
-* [🏅 GitHub Achievements](#-github-achievements)
-* [📈 Social Proof Metrics](#-social-proof-metrics)
-* [🛠 Tech Stack & Expertise](#-tech-stack--expertise)
-* [✍️ Daily Inspiration](#️-daily-inspiration)
-* [🌐 Connect With Me](#-connect-with-me)
-
----
-
 # 💫 About Me
 
 <div align="center">
@@ -345,12 +331,6 @@ Actively exploring high-impact opportunities in:
 ---
 
 <div align="center">
-
-<a href="#-navigation-index">
-<img src="https://img.shields.io/badge/⬆_Back_to_Top-00E1FF?style=for-the-badge&logoColor=white" />
-</a>
-
-<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E1FF,100:0077FF&section=footer" width="100%" />
 
