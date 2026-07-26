@@ -227,7 +227,6 @@ Full Stack • AI/ML • Cloud • Software Engineering
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
-
 ---
 
 # 📈 Social Proof Metrics
