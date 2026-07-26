@@ -3,65 +3,55 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=280&section=header&text=Aman%20Antuley&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20AI%20Developer%20•%20DevOps%20Engineer%20•%20Cloud%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 
 </div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍;Passionate+About+Innovation+%26+Open+Source" />
 
 </div>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-06D6A0?style=for-the-badge&logo=github&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/GDGC-Organizer-F72585?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SIH%202025-Finalist-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/SIH%202025-Finalist-FFB703?style=for-the-badge&logo=trophy&logoColor=black"/>
 <img src="https://img.shields.io/badge/Meta-Hackathon%20Finalist-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge"/>
 
 </div>
 
 # 💫 About Me
+
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ## ⚡ Professional Snapshot
 
-Name: Aman Antuley
-
-Role:
+* **Name:** Aman Antuley
+* **Role:**
   - Software Engineer
   - AI/ML Developer
   - DevOps & Cloud Enthusiast
-
-Location:
-  - India 🇮🇳
-
-Specialization:
+* **Location:** India 🇮🇳
+* **Specialization:**
   - Full Stack Development
   - Artificial Intelligence / Machine Learning
   - Cloud Computing
   - Android Development
   - Scalable Backend Systems
-
-Community & Leadership:
+* **Community & Leadership:**
   - GDGC Organizer
   - Open Source Contributor
   - Community Builder
-
-Achievements:
+* **Achievements:**
   - SIH 2025 Finalist
   - Meta Global Hackathon Finalist
-
-Currently Exploring:
+* **Currently Exploring:**
   - Distributed Systems
   - Generative AI
   - Kubernetes & DevOps
@@ -74,21 +64,18 @@ Currently Exploring:
 ## 🚀 Current Mission
 
 ### 🔭 Engineering Goals
-
 * Building scalable AI-powered applications
 * Developing real-time intelligent dashboards
 * Creating cloud-native and production-ready systems
 * Designing impactful digital experiences
 
 ### 🌱 Currently Learning
-
 * Advanced DevOps & Kubernetes
 * Distributed Systems Architecture
 * LLMs & AI Infrastructure
 * Scalable Cloud Engineering
-  
-### 🤝 Open To
 
+### 🤝 Open To
 * Software Engineering Roles
 * AI/ML Opportunities
 * Cloud & DevOps Internships
@@ -96,16 +83,15 @@ Currently Exploring:
 * Innovative Startup Projects
 
 ### 💡 Philosophy
-
-> “Building technology that creates real-world impact.”
+> *“Building technology that creates real-world impact.”*
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
+<br />
 
 <div align="center">
 
@@ -117,37 +103,34 @@ Currently Exploring:
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/META-Global%20Hackathon%20Finalist-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
 
 ### 🌍 Meta Hackathon Finalist
-
-Recognized for innovation, scalable engineering and impactful problem-solving in a highly competitive global hackathon environment.
+Recognized for innovation, scalable engineering, and impactful problem-solving in a highly competitive global hackathon environment.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Smart%20India-Hackathon%20Finalist-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
+<img src="https://img.shields.io/badge/Smart%20India-Hackathon%20Finalist-FFB703?style=for-the-badge&logo=trophy&logoColor=black"/>
 
 ### 🧠 SIH 2025 Finalist
-
-Built impactful real-world solutions focused on innovation, scalability and engineering excellence.
+Built impactful real-world solutions focused on innovation, scalability, and engineering excellence.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ### 💼 Open To Work
-
-Actively exploring opportunities in:
-Full Stack • AI/ML • Cloud • Software Engineering
+Actively exploring opportunities in:  
+**Full Stack • AI/ML • Cloud • Software Engineering**
 
 </td>
 
@@ -160,29 +143,22 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 <div align="center">
 
-<table style="border-collapse: collapse;">
+<table>
 <tr>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="420" />
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="410" />
 </td>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="360" />
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="390" />
 </td>
-
 </tr>
-
 <tr>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="420" />
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="410" />
 </td>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="420" />
+<td align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="410" />
 </td>
-
 </tr>
 </table>
 
@@ -197,19 +173,17 @@ Full Stack • AI/ML • Cloud • Software Engineering
 <a href="https://github.com/amanantuley/PerfectFit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=PerfectFit&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
-
 <a href="https://github.com/amanantuley/CogniDetect-Main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanantuley&repo=CogniDetect-Main&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 </div>
 
-
 # 🐍 Contribution Ecosystem
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amanantuley/amanantuley/output/snake.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/amanantuley/amanantuley/output/snake.svg" width="95%" alt="Snake animation" />
 
 </div>
 
@@ -225,24 +199,12 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 ---
 
-# 🧵 3D Contribution Visualization
-
-<div align="center">
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-
-</div>
-
----
-
 # 📈 Social Proof Metrics
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=amanantuley&color=00E1FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
 <img src="https://img.shields.io/github/followers/amanantuley?style=for-the-badge&color=00E1FF&labelColor=111827" />
-
 <img src="https://img.shields.io/github/stars/amanantuley?style=for-the-badge&color=FACC15&labelColor=111827" />
 
 </div>
@@ -251,82 +213,58 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 # 🛠 Tech Stack & Expertise
 
-## 🎨 Frontend Development
-
+### 🎨 Frontend Development
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui,figma" height="60" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui,figma" height="50" />
 </div>
 
 ---
 
-## ⚙️ Backend Development
-
+### ⚙️ Backend Development
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,php" height="60" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,php" height="50" />
 </div>
 
 ---
 
-## 📱 Mobile Development
-
+### 📱 Mobile Development
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="60" />
-
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="50" />
 </div>
 
 ---
 
-## 🤖 Artificial Intelligence / Machine Learning
-
+### 🤖 Artificial Intelligence / Machine Learning
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda" height="60" />
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda" height="50" />
 </div>
 
 ---
 
-## 📊 Data Science & Analytics
-
+### 📊 Data Science & Analytics
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=matlab" height="60" />
-
+<img src="https://skillicons.dev/icons?i=matlab,python" height="50" />
 </div>
 
 ---
 
-## 🗄 Databases
-
+### 🗄 Databases
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase" height="60" />
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase" height="50" />
 </div>
 
 ---
 
-## ☁️ Cloud & DevOps
-
+### ☁️ Cloud & DevOps
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,gitlab" height="60" />
-
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,gitlab" height="50" />
 </div>
 
 ---
 
-## 🧰 Tools & IDEs
-
+### 🧰 Tools & IDEs
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,postman,notion,githubactions" height="60" />
-
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,postman,notion,githubactions" height="50" />
 </div>
 
 ---
@@ -345,28 +283,14 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-antuley-8974ab26a/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+<a href="https://www.linkedin.com/in/aman-antuley-8974ab26a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
 <a href="mailto:amanantuley3794@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
-
-<a href="https://github.com/amanantuley">
-<img src="https://skillicons.dev/icons?i=github" height="60" />
-</a>
-
-<a href="https://twitter.com/">
-<img src="https://skillicons.dev/icons?i=twitter" height="60" />
-</a>
-
-<a href="https://instagram.com/">
-<img src="https://skillicons.dev/icons?i=instagram" height="60" />
-</a>
-
-<a href="https://discord.com/">
-<img src="https://skillicons.dev/icons?i=discord" height="60" />
+<a href="https://github.com/amanantuley" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 </div>
@@ -375,6 +299,6 @@ Full Stack • AI/ML • Cloud • Software Engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E1FF,100:0077FF&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E1FF,100:0077FF&section=footer" width="100%" />
 
 </div>
