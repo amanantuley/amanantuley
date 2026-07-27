@@ -155,36 +155,25 @@ Full Stack • AI/ML • Cloud • Software Engineering
 # ⚡ GitHub Intelligence & Analytics
 
 <div align="center">
-
-<table style="border-collapse: collapse;">
-<tr>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="420" />
-</td>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" width="360" />
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" width="420" />
-</td>
-
-<td align="center" style="padding: 5px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" width="420" />
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=amanantuley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanantuley&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanantuley&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanantuley&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
 </table>
-
 </div>
-
----
 
 # 🔝 Featured Projects
 
