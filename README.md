@@ -8,7 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Aman+Antuley+👋;Computer+Engineer+%7C+Full+Stack+Developer;AI%2FML+%7C+DevOps+%7C+Cloud+Engineer;Building+Scalable+Digital+Experiences+🚀;Open+to+Software+Engineering+Roles;Meta+Hackathon+Finalist+🌍;Passionate+About+Innovation+%26+Open+Source" />
 
 </div>
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white"/>
