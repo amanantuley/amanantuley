@@ -19,6 +19,16 @@
 <img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge"/>
 
 </div>
+<!-- Animated Full Stack Tech Stack -->
+<div align="center">
+
+<img src="./full_stack_animated_github_banner.svg"
+     width="100%"
+     alt="Full Stack Development — FastAPI, React, SQL, AWS, Python, Java, PostgreSQL, GitHub and Docker" />
+
+</div>
+
+
 
 # 💫 About Me
 
